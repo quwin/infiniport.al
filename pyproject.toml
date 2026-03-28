@@ -9,7 +9,7 @@ python = ">=3.10.0,<3.12"
 discord-py = "^2.3.2"
 requests = "^2.31.0"
 flask = "^3.0.3"
-aiohttp = "^3.9.5"
+aiohttp = "^3.13.3"
 aiosqlite = "^0.20.0"
 quart = "^0.19.6"
 
