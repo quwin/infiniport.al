@@ -166,3 +166,4 @@ node_modules/
 *.replit
 .replit
 frontend/build/
+.DS_Store
