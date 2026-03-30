@@ -11,7 +11,7 @@ requests = "^2.31.0"
 flask = "^3.0.3"
 aiohttp = "^3.13.3"
 aiosqlite = "^0.20.0"
-quart = "^0.19.6"
+quart = "^0.20.0"
 
 [tool.pyright]
 # https://github.com/microsoft/pyright/blob/main/docs/configuration.md
